@@ -93,5 +93,22 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sneh0510&theme=github&no-frame=true&row=2&column=3" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sneh0510&theme=react-dark" alt="GitHub Contribution Graph" />
+</p>
+
+
+---
+
 ## ⚡ Fun Fact  
 I enjoy transforming complex ideas into fast, user-friendly web apps — and I'm always up for solving a new challenge! 💡
