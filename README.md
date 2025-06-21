@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;MERN+Stack+Enthusiast;Real-Time+App+Builder;Always+Learning+New+Things+🚀" alt="Typing Animation" />
 </p>
 
-<h3 align="center">💻 Full-Stack Developer | 🚀 MERN Stack Enthusiast | ⚡ Real-Time App Builder</h3>
-
 <p align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="React Node Coding" height="250"/>
 </p>
@@ -83,7 +81,7 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white" />
 </p>
 
-<h3 align="center">🧠 Languages</h3>
+<h3 align="center">⚙️ Languages</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
   <img width="12" />
@@ -92,34 +90,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="js logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
 </p>
 
 <h3 align="center">🧰 Environment</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white" />
 </p>
-</details>
-
----
-
-<details open>
-<summary><h2 align="center">🚀 Featured Projects</h2></summary>
-
-<p align="left">
-🔹 <a href="https://imagify-rho-three.vercel.app/"><strong>Imagify</strong></a> – AI image generator via ClipDrop API  
-<br/>
-🔹 <a href="https://lms-sepia-phi.vercel.app/"><strong>LMS</strong></a> – Role-based system for courses & dashboards  
-<br/>
-🔹 <a href="https://chat-app-pi-peach-74.vercel.app/"><strong>Chat App</strong></a> – Real-time messaging using Socket.IO  
-<br/>
-🔹 <a href="https://slot-booking-livid.vercel.app/"><strong>Slot Booking</strong></a> – Venue slot booking with live filtering  
-<br/>
-🔹 <a href="https://spotify-clone-henna-tau.vercel.app/"><strong>Spotify Clone</strong></a> – Responsive UI & audio playback  
-<br/>
-🔹 <a href="https://stock-market-kohl.vercel.app/"><strong>Stock Predictor</strong></a> – Chart visualizer & AI predictions  
-</p>
-
 </details>
 
 ---
