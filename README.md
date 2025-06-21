@@ -23,7 +23,7 @@
 
 📫 **How to reach me**
 
-- 📧 Email: snehyadav091@gmail.com *(replace with your real one)*
+- 📧 Email: snehyadav091@gmail.com
 - 💼 LinkedIn: [View](www.linkedin.com/in/snehyadav510)
 
 ---
