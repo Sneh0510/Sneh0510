@@ -17,8 +17,7 @@
 - 💼 I recently completed:  
   **15-day Internship at TatvaSoft** *(Angular, .NET, PostgreSQL)*
 
-- 🌐 Portfolio:  
-  [View](https://portfolio-eight-kappa-40.vercel.app/)
+- 🌐 Portfolio:  [View](https://portfolio-eight-kappa-40.vercel.app/)
 
 ---
 
