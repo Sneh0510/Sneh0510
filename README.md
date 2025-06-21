@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sneh Yadav</h1>
-<h3 align="center">Full-Stack Developer | MERN Enthusiast | Real-time App Builder</h3>
+<h1 align="center">👨‍💻 Hey there! I'm Sneh Yadav</h1>
+<h3 align="center">💻 Full-Stack Developer | 🚀 MERN Stack Enthusiast | ⚡ Real-Time App Builder</h3>
 
 <p align="center">
   <a href="https://portfolio-eight-kappa-40.vercel.app/" target="_blank">
@@ -33,34 +33,38 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-18-blue?logo=react)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-4-blue?logo=tailwind-css)
+### 💻 Frontend  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
+![React](https://img.shields.io/badge/React-18-blue?logo=react) 
+![React Router](https://img.shields.io/badge/React_Router-D60202?logo=react-router&logoColor=white) 
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-4-blue?logo=tailwind-css) 
 ![Vite](https://img.shields.io/badge/Vite-Build-646CFF?logo=vite&logoColor=white)
 
-### 🔧 Backend
-![Node.js](https://img.shields.io/badge/Node.js-20-green?logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-black?logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-4.4-green?logo=mongodb)
-![JWT](https://img.shields.io/badge/JWT-Authentication-blueviolet?logo=json-web-tokens)
+### 🔧 Backend  
+![Node.js](https://img.shields.io/badge/Node.js-20-green?logo=node.js) 
+![Express.js](https://img.shields.io/badge/Express.js-black?logo=express) 
+![MongoDB](https://img.shields.io/badge/MongoDB-4.4-green?logo=mongodb) 
+![JWT](https://img.shields.io/badge/JWT-Authentication-blueviolet?logo=json-web-tokens) 
 ![Axios](https://img.shields.io/badge/Axios-Client-5A29E4?logo=axios)
 
-### ☁️ Tools & Platforms
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-Media-blue?logo=cloudinary)
-![Vercel](https://img.shields.io/badge/Vercel-Deploy-black?logo=vercel)
-![Render](https://img.shields.io/badge/Render-Backend-blue?logo=render)
-![NPM](https://img.shields.io/badge/NPM-Package-CB3837?logo=npm)
+### ☁️ Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) 
+![Cloudinary](https://img.shields.io/badge/Cloudinary-Media-blue?logo=cloudinary) 
+![Vercel](https://img.shields.io/badge/Vercel-Deploy-black?logo=vercel) 
+![Render](https://img.shields.io/badge/Render-Backend-blue?logo=render) 
+![NPM](https://img.shields.io/badge/NPM-Package-CB3837?logo=npm) 
+![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
 
-### 🧠 Programming Languages
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+### 🧠 Programming Languages  
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-### 🧰 Environment
+### 🧰 Environment  
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 
 ---
