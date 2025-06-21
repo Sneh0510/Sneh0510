@@ -46,7 +46,7 @@
 
 ---
 
-<details open>
+<details>
 <summary><h2 align="center">🛠️ Tech Stack</h2></summary>
 <h3 align="center">💻 Frontend</h3>
 <p align="center">
@@ -100,7 +100,7 @@
 
 ---
 
-<details open>
+<details>
 <summary><h2 align="center">📊 GitHub Stats</h2></summary>
 
 <p align="center">
@@ -115,7 +115,7 @@
 
 ---
 
-<details open>
+<details>
 <summary><h2 align="center">🏆 GitHub Trophies</h2></summary>
 
 <p align="center">
@@ -126,7 +126,7 @@
 
 ---
 
-<details open>
+<details>
 <summary><h2 align="center">📈 Contribution Graph</h2></summary>
 
 <p align="center">
@@ -136,7 +136,7 @@
 </details>
 
 ---
-<details open>
+<details>
 <summary><h2 align="center">💬 Random Dev Quote</h2></summary>
 
 <p align="center">
