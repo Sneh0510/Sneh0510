@@ -90,7 +90,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sneh0510&show_icons=true&theme=radical" alt="Sneh's GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sneh0510&theme=radical" alt="Sneh's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Sneh0510&theme=radical" alt="Sneh's GitHub Streak" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneh0510&layout=compact&theme=radical" alt="Top Languages" />
 </p>
