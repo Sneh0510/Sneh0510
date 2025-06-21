@@ -18,14 +18,14 @@
   **15-day Internship at TatvaSoft** *(Angular, .NET, PostgreSQL)*
 
 - 🌐 Portfolio:  
-  [https://portfolio-eight-kappa-40.vercel.app/](https://portfolio-eight-kappa-40.vercel.app/)
+  [View](https://portfolio-eight-kappa-40.vercel.app/)
 
 ---
 
 📫 **How to reach me**
 
-- 📧 Email: snehyadav@example.com *(replace with your real one)*
-- 💼 LinkedIn: [linkedin.com/in/snehyadav](https://linkedin.com/in/snehyadav) *(replace with your real link)*
+- 📧 Email: snehyadav091@gmail.com *(replace with your real one)*
+- 💼 LinkedIn: [View](www.linkedin.com/in/snehyadav510)
 
 ---
 
@@ -35,21 +35,19 @@
 ![Node.js](https://img.shields.io/badge/Node.js-20-green?logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-black?logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4.4-green?logo=mongodb)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-4.7-black?logo=socket.io)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-4-blue?logo=tailwind-css)
 ![Vercel](https://img.shields.io/badge/Vercel-Deploy-black?logo=vercel)
-![Render](https://img.shields.io/badge/Render-Backend-blue?logo=render)
 
 ---
 
 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snehyadav&show_icons=true&theme=radical" alt="Sneh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sneh0510&show_icons=true&theme=radical" alt="Sneh's GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snehyadav&theme=radical" alt="Sneh's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sneh0510&theme=radical" alt="Sneh's GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehyadav&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneh0510&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
