@@ -1,4 +1,11 @@
-<h1 align="center">👨‍💻 Hey there! I'm Sneh Yadav</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&repeat=true&width=500&lines=Hi%2C+I%27m+Sneh+Yadav+%F0%9F%91%8B" alt="Typing Hi I'm Sneh Yadav" />
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;MERN+Stack+Enthusiast;Real-Time+App+Builder;Always+Learning+New+Things+🚀" alt="Typing Animation" />
+</p>
+
 <h3 align="center">💻 Full-Stack Developer | 🚀 MERN Stack Enthusiast | ⚡ Real-Time App Builder</h3>
 
 <p align="center">
@@ -19,26 +26,22 @@
 
 ---
 
-<details open>
+<details>
 <summary><h2 align="center">🌟 About Me</h2></summary>
 <p align="center">
 
-🚀 <strong>Currently building:</strong><br>
-Stock Market Predictor, Learning Management System (LMS), Real-Time Chat App
+💻 <strong>Versatile MERN Stack Developer</strong> with strong expertise in <code>JavaScript</code>, <code>React.js</code>, <code>Node.js</code>, <code>Express.js</code>, and <code>MongoDB</code>.
 
-🔍 <strong>Learning:</strong><br>
-Socket.IO, Advanced Backend Architecture, Cloud Deployment
+🚀 Passionate about building scalable and dynamic web applications with clean, efficient, and maintainable code.
 
-🧠 <strong>Ask me about:</strong><br>
-<code>React</code>, <code>Node.js</code>, <code>MongoDB</code>, <code>Tailwind CSS</code>, <code>JWT</code>, <code>Vercel</code>, <code>Render</code>
+⚙️ Skilled in leveraging tools like <strong>ChatGPT</strong> and other AI-powered assistants to optimize development workflows and solve complex problems efficiently.
 
-🎓 <strong>Recently completed:</strong><br>
-Internship at TatvaSoft (15 Days – Angular, .NET, PostgreSQL)
+🤝 Thrives in collaborative environments and consistently delivers high-quality results under tight deadlines.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sneh0510&repo=chat-app&theme=onedark" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sneh0510&repo=lms&theme=onedark" />
-</p>
+📈 Continuously learning new technologies and actively working on real-world projects like:  
+<em>AI-image Generator</em>, <em>LMS (Learning Management System)</em>, and a <em>Real-Time Chat App</em>.
+
+🎓 Recently completed a 15-day internship at <strong>TatvaSoft</strong> — focused on <code>Angular</code>, <code>.NET</code>, and <code>PostgreSQL</code>.
 
 </p>
 </details>
@@ -90,7 +93,6 @@ Internship at TatvaSoft (15 Days – Angular, .NET, PostgreSQL)
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=yAk24Bd8TOKS&format=png&color=000000" height="40" alt="sql logo" />
 </p>
 
 <h3 align="center">🧰 Environment</h3>
@@ -165,9 +167,8 @@ Internship at TatvaSoft (15 Days – Angular, .NET, PostgreSQL)
 I enjoy turning complex ideas into fast, scalable apps — and I never say no to a challenge! 💡
 </p>
 
----
-
-<h2 align="center">🤝 Let's Connect!</h2>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontAlign=40&fontColor=ffffff" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B;Happy+Coding!+%F0%9F%92%BB" />
 </p>
+
+
