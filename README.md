@@ -106,7 +106,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sneh0510&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
-<img src="https://github-readme-streak-stats.vercel.app/?user=Sneh0510&theme=radical" alt="GitHub Streak" />
+<!-- <img src="https://github-readme-streak-stats.vercel.app/?user=Sneh0510&theme=radical" alt="GitHub Streak" /> -->
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneh0510&layout=compact&theme=radical" alt="Top Languages" />
 </p>
