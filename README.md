@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-eight-kappa-40.vercel.app/" target="_blank">
+  <a href="https://snehyadav.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=vercel" />
   </a>
   <a href="mailto:snehyadav091@gmail.com">
@@ -106,7 +106,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sneh0510&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
-<!-- <img src="https://github-readme-streak-stats.vercel.app/?user=Sneh0510&theme=radical" alt="GitHub Streak" /> -->
+<img src="https://github-readme-streak-stats.vercel.app/?user=Sneh0510&theme=radical" alt="GitHub Streak" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneh0510&layout=compact&theme=radical" alt="Top Languages" />
 </p>
