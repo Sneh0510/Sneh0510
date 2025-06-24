@@ -17,9 +17,13 @@ jobs:
           curl -o assets/github-streak.svg "https://streak-stats.demolab.com?user=Sneh0510&theme=radical"
 
       - name: Commit and push changes
+        env:
+          TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${TOKEN}@github.com/Sneh0510/Sneh0510.git
           git add assets/github-streak.svg
           git commit -m "🔥 Update GitHub Streak card" || echo "No changes to commit"
-          git push
+          git push origin main
+
