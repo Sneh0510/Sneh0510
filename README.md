@@ -119,7 +119,7 @@
 <summary><h2 align="center">🏆 GitHub Trophies</h2></summary>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sneh0510&theme=github&no-frame=true&row=2&column=3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sneh0510&theme=radical&no-frame=true&row=1" />
 </p>
 
 </details>
