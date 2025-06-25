@@ -14,7 +14,9 @@ jobs:
 
       - name: Download streak card
         run: |
-          curl -o assets/github-streak.svg "https://streak-stats.demolab.com?user=Sneh0510&theme=radical"
+          mkdir -p assets
+          curl --retry 5 --retry-delay 2 --max-time 20 -L -o assets/github-streak.svg "https://streak-stats.demolab.com?user=Sneh0510&theme=radical"
+
 
       - name: Commit and push changes
         env:
