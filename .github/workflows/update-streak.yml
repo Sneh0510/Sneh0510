@@ -9,8 +9,10 @@ jobs:
   update-streak:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout repository with PAT
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
 
       - name: Download streak card
         run: |
@@ -21,7 +23,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git remote set-url origin https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/Sneh0510/Sneh0510.git
           git add assets/github-streak.svg
           git commit -m "🔥 Update GitHub Streak card" || echo "No changes to commit"
           git push origin main
