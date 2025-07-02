@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&repeat=true&width=500&lines=Hi%2C+I%27m+Sneh+Yadav+%F0%9F%91%8B" alt="Typing Hi I'm Sneh Yadav" />
 </h1>
-
+<!-- // add herer -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;MERN+Stack+Enthusiast;Real-Time+App+Builder;Always+Learning+New+Things+🚀" alt="Typing Animation" />
 </p>
